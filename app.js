@@ -52,7 +52,7 @@ var checkplease = function(x){
   }
   else{
     console.log("not a valid date");
-    finalmessage = "This is invalid time format";
+    finalmessage = "This is invalid time format. NULL";
     return finalmessage;
   }
 
